@@ -2,7 +2,7 @@
 
 This repository contains all R files used to generate the figures for the manuscript “Glioblastoma Hijacks Microglial Transcriptional Networks to ” by Sybren L.N. Maas, Erik R. Abels, Lieke L. Van De Haar, Xuan Zhang, Liza Morsett, Srinjoy Sil, Joana Guedes, Pritha Sen, Shilpa Prabhakar, Suzanne E. Hickman, Charles P. Lai David T. Ting, Xandra O. Breakefield, Marike L.D. Broekman, and Joseph El Khoury.
 
-This manuscript has not yet been published. Once published a link to the publication will be added to this file.
+This manuscript was published on June 18th 2020 in <a href="https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-020-01797-2" target="_blank">Journal of Neuroinflammation</a>. 
 
 Using these scripts for other scientific projects is encouraged. However, if these scripts help the generation of a new manuscript please cite the publication listed above.
 
